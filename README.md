@@ -71,9 +71,12 @@ En los modelos Servicio y Turno se definieron los métodos de relación correspo
 
 ## Capturas
 
-1.Pagina de Inicio. <img width="1313" height="603" alt="image" src="https://github.com/user-attachments/assets/48ad6305-8adf-45b2-8d00-e7b623416777" />
-2.Formulario de Reserva. <img width="464" height="567" alt="image" src="https://github.com/user-attachments/assets/dc7ef9bc-099d-461b-8728-0a1423a14315" />
+1.Pagina de Inicio. 
+<img width="1313" height="603" alt="image" src="https://github.com/user-attachments/assets/48ad6305-8adf-45b2-8d00-e7b623416777" />
+2.Formulario de Reserva. 
+<img width="464" height="567" alt="image" src="https://github.com/user-attachments/assets/dc7ef9bc-099d-461b-8728-0a1423a14315" />
    
-3. Listado de Turnos. <img width="441" height="566" alt="image" src="https://github.com/user-attachments/assets/c0eebffd-0c86-4fb3-aaa8-624fca91313a" />
+3. Listado de Turnos.
+<img width="441" height="566" alt="image" src="https://github.com/user-attachments/assets/c0eebffd-0c86-4fb3-aaa8-624fca91313a" />
 
 ## Video Demostrativo
