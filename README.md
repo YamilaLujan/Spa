@@ -75,6 +75,7 @@ En los modelos Servicio y Turno se definieron los métodos de relación correspo
 2. Formulario de Turnos.
 
 <img width="459" height="577" alt="formulario-turnos" src="https://github.com/user-attachments/assets/3478ad96-8045-4330-a690-ec846022c6ca" />
+
 3. Listado de Turnos.
 
 <img width="485" height="568" alt="listado-turnos" src="https://github.com/user-attachments/assets/210c3235-e7d3-4a97-bc82-d7a6b12d94b6" />
