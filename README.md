@@ -76,6 +76,7 @@ En los modelos Servicio y Turno se definieron los métodos de relación correspo
 2.Formulario de Reserva. 
 
 <img width="464" height="567" alt="image" src="https://github.com/user-attachments/assets/dc7ef9bc-099d-461b-8728-0a1423a14315" />
+
 3. Listado de Turnos.
 
 <img width="441" height="566" alt="image" src="https://github.com/user-attachments/assets/c0eebffd-0c86-4fb3-aaa8-624fca91313a" />
