@@ -82,3 +82,9 @@ En los modelos Servicio y Turno se definieron los métodos de relación correspo
 <img width="441" height="566" alt="image" src="https://github.com/user-attachments/assets/c0eebffd-0c86-4fb3-aaa8-624fca91313a" />
 
 ## Video Demostrativo
+[Sitio-Spa..zip](https://github.com/user-attachments/files/34405905/Sitio-Spa.zip)
+
+
+
+
+
