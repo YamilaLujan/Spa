@@ -81,6 +81,7 @@ En los modelos Servicio y Turno se definieron los métodos de relación correspo
 <img width="485" height="568" alt="listado-turnos" src="https://github.com/user-attachments/assets/210c3235-e7d3-4a97-bc82-d7a6b12d94b6" />
 
 ## Video demostrativo
+[video-spa..zip](https://github.com/user-attachments/files/34530830/video-spa.zip)
 
 
 
